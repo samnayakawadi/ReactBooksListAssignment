@@ -1,0 +1,12 @@
+.bookTitle {
+  color: hotpink;
+  border: 2px solid blue;
+  padding: 5px;
+}
+
+li {
+  font-weight: 600;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: goldenrod;
+}
